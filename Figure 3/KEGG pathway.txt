@@ -1,0 +1,38 @@
+Bacteria-archaea shared			
+Pathway	Input	Background number	Pvalue
+Rap1 signaling pathway	32	210	8.52E-13
+Calcium signaling pathway	30	193	2.8E-12
+Metabolic pathways	93	1433	1.15E-11
+Focal adhesion	28	199	1.18E-10
+Thermogenesis	30	231	1.51E-10
+Platelet activation	22	124	2.43E-10
+Vascular smooth muscle contraction	22	132	6.92E-10
+Oxidative phosphorylation	18	133	0.000000398
+Gastric acid secretion	13	75	0.00000142
+Salivary secretion	14	90	0.00000177
+			
+Bacteria-specific			
+Pathway	Input	Background number	Pvalue
+Metabolic pathways	237	1433	8.05E-14
+Thermogenesis	39	231	0.000000726
+Cellular senescence	31	160	0.000000789
+Inflammatory mediator regulation of TRP channels	21	100	0.0000159
+PI3K-Akt signaling pathway	46	354	0.0000401
+Salmonella infection	18	83	0.0000434
+PPAR signaling pathway	14	76	0.001215267
+Fatty acid degradation	9	44	0.004825401
+Oxidative phosphorylation	18	133	0.005679023
+Bacterial invasion of epithelial cells	12	74	0.00650501
+			
+Archaea-specific			
+Pathway	Input	Background number	Pvalue
+Longevity regulating pathway	9	89	9.71E-08
+Adipocytokine signaling pathway	7	69	0.00000259
+Metabolic pathways	27	1433	0.0000505
+AMPK signaling pathway	7	120	0.000075
+Pyruvate metabolism	4	39	0.000381071
+Autophagy - animal	6	128	0.000743492
+PPAR signaling pathway	4	76	0.003879957
+Oxidative phosphorylation	5	133	0.005081157
+Proteasome	3	45	0.006638297
+Glycolysis / Gluconeogenesis	3	68	0.019195756
