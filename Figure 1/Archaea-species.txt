@@ -1,0 +1,11 @@
+Species	Average relative abundance
+Methanobrevibacter_gottschalkii 	0.267631831
+Methanobrevibacter_ruminantium	0.242133536
+Methanomassiliicoccus_luminyensis	0.152934166
+Methanomassiliicoccus_unclassified	0.170708282
+Methanobrevibacter_millerae	0.077077301
+Methanomethylophilus_unclassified	0.02319329
+Methanobrevibacter_boviskoreani	0.015386217
+Methanosphaera_cuniculi	0.014698628
+Methanobrevibacter_oralis	0.012488072
+Others	0.023748677

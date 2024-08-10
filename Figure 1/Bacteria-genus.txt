@@ -1,0 +1,12 @@
+Genus	Average relative abundance
+Prevotella	0.176750058
+Rikenellaceae_RC9_gut_group	0.16936739
+Bacteroidales_F082	0.07577871
+Christensenellaceae_R-7_group	0.042296141
+Oscillospiraceae_NK4A214_group	0.039876749
+Ruminococcus	0.034018224
+Muribaculum	0.032427955
+Saccharofermentans	0.029858885
+Bacteroidales_RF16_group	0.02711528
+Papillibacter	0.019908143
+Others	0.352602465

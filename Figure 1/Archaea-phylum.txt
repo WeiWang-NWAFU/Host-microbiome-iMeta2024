@@ -1,0 +1,4 @@
+Phylum	Average realtive abundance
+Euryarchaeota	0.643722647
+Thermoplasmatota	0.347113396
+Halobacterota	0.009163957

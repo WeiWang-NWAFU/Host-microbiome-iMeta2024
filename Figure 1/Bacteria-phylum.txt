@@ -1,0 +1,7 @@
+Phylum	Average relative abundance
+Bacteroidota	0.564254341
+Firmicutes	0.344582543
+Proteobacteria	0.03255108
+Patescibacteria	0.016230396
+Fibrobacterota	0.012301693
+Others	0.030079947
